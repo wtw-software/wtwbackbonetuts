@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ title }}</title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    
+  </head>
+  <body>
+    
+    <div id="userlist">
+      <ul></ul>
+      <input type="text" class="firstname">
+      <input type="text" class="lastname">
+      <button class="adduser">AddUser</button>
+    </div>
+
+    <script type="text/javascript" src="/client/main.js"></script>
+  </body>
+</html>
